@@ -1,0 +1,226 @@
+Hour Terms — Commercial License Agreement
+=========================================
+
+Copyright (c) 2026 Joe Gullo Digital (Dutch BV, KVK 98746375, Pieterskerk-Choorsteeg 15
+2311 TR Leiden, Netherlands) All rights reserved.
+
+This software ("Hour Terms") is licensed, not sold. By installing, copying,
+or otherwise using Hour Terms, you ("the Licensee") agree to the terms
+below. The licensor is Joe Gullo Digital, a private limited company
+registered with the Dutch Chamber of Commerce under KVK number 98746375
+("the Licensor").
+
+
+1. GRANT OF LICENSE
+-------------------
+
+Subject to payment of the applicable license fee and continued compliance
+with this agreement, the Licensor grants the Licensee a non-exclusive,
+non-transferable, worldwide license to install and use Hour Terms on the
+number of distinct Kirby installations permitted by the purchased license
+tier:
+
+  - "Freelancer" tier: one (1) Kirby installation
+  - "Agency" tier: up to five (5) Kirby installations within a single
+    organization, with up to five (5) named users across those installs
+  - "Managed Install" tier: one (1) Kirby installation, operated on the
+    Licensee's own hosting infrastructure with administrative access
+    granted to the Licensor under the terms of a separate services
+    agreement
+
+A "Kirby installation" is a single Kirby content management system
+instance running on a single primary domain. Staging and development
+copies of the same instance do not consume additional license seats.
+
+
+2. PERMITTED USES
+-----------------
+
+The Licensee MAY:
+
+  (a) Install Hour Terms on the permitted number of Kirby installations.
+  (b) Modify the source code for the Licensee's own internal use,
+      including bug fixes, customizations, and integrations with other
+      systems the Licensee operates.
+  (c) Make backup copies for disaster recovery purposes.
+  (d) Continue using the licensed version of Hour Terms indefinitely,
+      even after the 12-month update window has expired.
+
+
+3. RESTRICTIONS
+---------------
+
+The Licensee MAY NOT:
+
+  (a) Redistribute Hour Terms or any substantial portion of its source
+      code, whether modified or unmodified, in any form, to any third
+      party.
+  (b) Sublicense, rent, lease, lend, or sell Hour Terms or any rights
+      to it.
+  (c) Remove, alter, or obscure any copyright, trademark, or proprietary
+      notices in Hour Terms.
+  (d) Use Hour Terms to operate a multi-tenant SaaS product where third
+      parties (not the Licensee or the Licensee's employees) gain
+      access to a Hour Terms instance. (Note: this restriction does NOT
+      apply to the Licensee's clients accessing the built-in client
+      portal — that is the intended use of the product.)
+  (e) Reverse-engineer, decompile, or disassemble Hour Terms except to
+      the extent expressly permitted by applicable law.
+  (f) Use Hour Terms without a valid license key issued by the Licensor.
+
+
+4. UPDATES AND SUPPORT
+----------------------
+
+The license fee includes:
+
+  - Twelve (12) months of free version updates from the date of purchase
+  - Email support during the 12-month update window (Freelancer tier:
+    best-effort; Agency tier: priority response, target 2 business days)
+
+After the 12-month window expires:
+
+  - The Licensee may continue using the most recent version received
+    during the update window indefinitely
+  - Additional updates and support require renewal at the then-current
+    renewal rate (typically 50% of the current new-license price)
+
+
+5. INTELLECTUAL PROPERTY
+------------------------
+
+Hour Terms, including all source code, documentation, design,
+graphics, and assets, remains the exclusive property of Joe Gullo
+Digital. This agreement grants only the rights specified in Section 1;
+no other rights are granted by implication, estoppel, or otherwise.
+
+The "Hour Terms" name, logo, and visual identity are trademarks of
+Joe Gullo Digital. Licensees may reference the use of Hour Terms in
+their own materials but may not use the marks in any way that suggests
+endorsement, partnership, or sponsorship.
+
+
+6. THIRD-PARTY COMPONENTS
+-------------------------
+
+Hour Terms includes the following third-party components, each governed
+by its own license terms:
+
+  - PHPMailer 6.9.3 — LGPL-2.1-only
+    https://github.com/PHPMailer/PHPMailer
+
+These components retain their original licenses and are not subject to
+the restrictions of this commercial license. The combined work is
+licensed as Hour Terms.
+
+
+7. PAYMENTS AND VAT
+-------------------
+
+Hour Terms license fees are processed through Stripe Payments. Joe
+Gullo Digital is the seller of record for all transactions.
+
+VAT is calculated and charged according to Dutch and EU tax law:
+
+  - Customers in the Netherlands: VAT charged at the applicable
+    Dutch rate
+  - Customers in other EU countries (B2C): VAT charged at the
+    customer's country rate, remitted via the EU One-Stop Shop scheme
+  - EU business customers with a valid VAT identification number:
+    reverse-charge mechanism applies (VAT not charged; customer
+    accounts for VAT in their own jurisdiction)
+  - Customers outside the EU: VAT not charged
+
+Invoices showing all relevant tax information are issued automatically
+after purchase and are available in the Licensee's buyer account at
+hourterms.com.
+
+  Joe Gullo Digital
+  KVK: 98746375
+  Pieterskerk-Choorsteeg 15
+  2311 TR Leiden, NL
+
+
+8. WARRANTY DISCLAIMER
+----------------------
+
+HOUR TERMS IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+THE LICENSOR DOES NOT WARRANT THAT HOUR TERMS WILL BE ERROR-FREE,
+UNINTERRUPTED, OR FREE OF SECURITY VULNERABILITIES. THE LICENSEE
+ASSUMES ALL RISK ASSOCIATED WITH INSTALLATION, USE, AND OPERATION.
+
+
+9. LIMITATION OF LIABILITY
+--------------------------
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL THE
+LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES ARISING FROM OR RELATED TO THIS AGREEMENT OR THE
+USE OF HOUR TERMS, INCLUDING BUT NOT LIMITED TO LOST PROFITS, LOST
+DATA, OR BUSINESS INTERRUPTION, EVEN IF THE LICENSOR HAS BEEN ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGES.
+
+THE LICENSOR'S TOTAL CUMULATIVE LIABILITY UNDER THIS AGREEMENT WILL NOT
+EXCEED THE AMOUNT PAID BY THE LICENSEE FOR THE LICENSE.
+
+
+10. TERMINATION
+---------------
+
+This license terminates automatically if the Licensee breaches any of
+the restrictions in Section 3. Upon termination, the Licensee must
+cease all use of Hour Terms and delete all copies in their possession.
+
+Termination does not affect the limitation of liability or warranty
+disclaimer, which survive termination.
+
+
+11. REFUNDS
+-----------
+
+A 14-day refund window applies to all new licenses. To request a
+refund, contact support@hourterms.com within 14 days of purchase.
+Refunds are processed through the original payment method via Stripe.
+
+Refunds may be denied if there is evidence of substantial use or
+deployment to production environments during the 14-day window.
+
+
+12. GOVERNING LAW
+-----------------
+
+This agreement is governed by the laws of the Netherlands. Any disputes
+arising from this agreement will be resolved in the competent courts
+of Den Haag, Netherlands.
+
+
+13. CONSUMER RIGHTS (EU)
+------------------------
+
+EU consumer customers retain all rights afforded by the EU Consumer
+Rights Directive and applicable national consumer protection law,
+notwithstanding any contrary provisions in this agreement.
+
+Note that for digital products that are delivered immediately upon
+purchase and that the customer has begun using, the EU 14-day
+withdrawal right may not apply once the download has occurred and
+the license has been activated. The 14-day refund window in Section 11
+above provides a commercial refund right that is more permissive than
+the statutory minimum.
+
+
+14. CONTACT
+-----------
+
+Joe Gullo Digital
+KVK 98746375
+Pieterskerk-Choorsteeg 15
+2311 TR Leiden, NL
+hello@hourterms.com
+https://hourterms.com
+
+
+END OF LICENSE

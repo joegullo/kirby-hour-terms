@@ -1,0 +1,52 @@
+# .gitignore for the public stub repo
+# Keep this repo MINIMAL — only documentation and metadata should be here.
+#
+# Things that should never be in this repo:
+# - The actual plugin source code (index.php, lib/, blueprints/, etc.)
+# - Any private development artifacts
+# - Local secrets, license keys, or credentials
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.history/
+
+# Local backups
+*.bak
+*.orig
+*.rej
+
+# Build artifacts that should never end up here
+# (If you see these in this repo, you've made a mistake — they belong in the private repo)
+/dist/
+/build/
+/node_modules/
+/vendor/
+composer.lock
+
+# Local environment / secrets
+.env
+.env.*
+
+# Source files that should NEVER be committed to this stub repo
+# These are listed as a safeguard — if any of these appear, .gitignore stops them
+# being added accidentally
+/index.php
+/index.js
+/messages.php
+/pipe.php
+/lib/
+/blueprints/
+/templates/
+/assets/
+/src/
+/tests/
+/ARCHITECTURE.md

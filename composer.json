@@ -1,0 +1,48 @@
+{
+  "name": "joegullo/kirby-hour-terms",
+  "description": "Self-hosted freelancer workspace for Kirby — tasks, time tracking, invoicing, client portal, and more.",
+  "type": "kirby-plugin",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "homepage": "https://hourterms.com",
+  "keywords": [
+    "kirby",
+    "kirby-plugin",
+    "freelancer",
+    "workspace",
+    "time-tracking",
+    "invoicing",
+    "client-portal",
+    "tasks",
+    "projects",
+    "accessibility",
+    "self-hosted"
+  ],
+  "authors": [
+    {
+      "name": "Joe Gullo",
+      "email": "hello@hourterms.com",
+      "homepage": "https://hourterms.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "support@hourterms.com",
+    "docs": "https://hourterms.com/docs/",
+    "source": "https://github.com/joegullo/kirby-hour-terms"
+  },
+  "require": {
+    "php": ">=8.2.0",
+    "getkirby/composer-installer": "^1.2",
+    "getkirby/cms": "^5.0"
+  },
+  "extra": {
+    "kirby-cms-path": false
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "allow-plugins": {
+      "getkirby/composer-installer": true
+    }
+  }
+}
